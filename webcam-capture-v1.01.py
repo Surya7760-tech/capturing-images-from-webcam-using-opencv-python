@@ -29,6 +29,7 @@ while True:
 
 
             # print('')
+            # print('')# print('')# print('')# print('')
             break
         elif key == ord('q'):
             print("Turning off camera.")
